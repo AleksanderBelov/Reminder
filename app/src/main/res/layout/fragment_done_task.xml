@@ -11,8 +11,7 @@
         android:layout_height="wrap_content"
         android:text="@string/done_task_fragment"
         android:layout_gravity="center"
-        android:textSize="35sp"
-        android:textColor="#0000FF"/>
+        android:textSize="35sp"/>
 
 
 </FrameLayout>
