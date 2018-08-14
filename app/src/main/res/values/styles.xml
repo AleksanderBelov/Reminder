@@ -13,7 +13,7 @@
 
 
     <style name="ActionButtonOverflow" parent="android:Widget.Holo.ActionButton.Overflow">
-        <item name="android:src">@mipmap/baseline_more_vert_24</item>
+        <item name="android:src">@drawable/baseline_more_vert_24</item>
 
     </style>
 
