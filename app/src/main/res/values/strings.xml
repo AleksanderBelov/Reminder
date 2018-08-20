@@ -8,4 +8,12 @@
     <string name="done_task">Done</string>
     <string name="current_task_fragment">Current task</string>
     <string name="done_task_fragment">Done task</string>
+    <string name="title_task">Title</string>
+    <string name="title_date">Date</string>
+
+    <string name="dialog_title">Adding task</string>
+
+    <string name="task_title">Title</string>
+    <string name="task_date">Date</string>
+    <string name="task_time">Time</string>
 </resources>
